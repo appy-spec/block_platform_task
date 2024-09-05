@@ -143,9 +143,3 @@ Drafts           /drafts
 Recent Comments  /comments
 JSON Dump Posts  /dump
 ```
-
-## Screenshots
-
-This is the default template
-
-![Simple Blog](http://i.imgur.com/2MpgWnD.png)
